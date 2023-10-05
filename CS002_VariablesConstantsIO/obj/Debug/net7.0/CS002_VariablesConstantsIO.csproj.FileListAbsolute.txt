@@ -1,0 +1,14 @@
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/bin/Debug/net7.0/CS002_VariablesConstantsIO
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/bin/Debug/net7.0/CS002_VariablesConstantsIO.deps.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/bin/Debug/net7.0/CS002_VariablesConstantsIO.runtimeconfig.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/bin/Debug/net7.0/CS002_VariablesConstantsIO.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/bin/Debug/net7.0/CS002_VariablesConstantsIO.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/CS002_VariablesConstantsIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/CS002_VariablesConstantsIO.AssemblyInfoInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/CS002_VariablesConstantsIO.AssemblyInfo.cs
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/CS002_VariablesConstantsIO.csproj.CoreCompileInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/CS002_VariablesConstantsIO.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/refint/CS002_VariablesConstantsIO.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/CS002_VariablesConstantsIO.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/CS002_VariablesConstantsIO.genruntimeconfig.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS002_VariablesConstantsIO/obj/Debug/net7.0/ref/CS002_VariablesConstantsIO.dll
