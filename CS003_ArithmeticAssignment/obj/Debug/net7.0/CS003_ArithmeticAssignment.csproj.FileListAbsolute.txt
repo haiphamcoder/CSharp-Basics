@@ -1,0 +1,14 @@
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/bin/Debug/net7.0/CS003_ArithmeticAssignment
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/bin/Debug/net7.0/CS003_ArithmeticAssignment.deps.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/bin/Debug/net7.0/CS003_ArithmeticAssignment.runtimeconfig.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/bin/Debug/net7.0/CS003_ArithmeticAssignment.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/bin/Debug/net7.0/CS003_ArithmeticAssignment.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/CS003_ArithmeticAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/CS003_ArithmeticAssignment.AssemblyInfoInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/CS003_ArithmeticAssignment.AssemblyInfo.cs
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/CS003_ArithmeticAssignment.csproj.CoreCompileInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/CS003_ArithmeticAssignment.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/refint/CS003_ArithmeticAssignment.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/CS003_ArithmeticAssignment.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/CS003_ArithmeticAssignment.genruntimeconfig.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS003_ArithmeticAssignment/obj/Debug/net7.0/ref/CS003_ArithmeticAssignment.dll
