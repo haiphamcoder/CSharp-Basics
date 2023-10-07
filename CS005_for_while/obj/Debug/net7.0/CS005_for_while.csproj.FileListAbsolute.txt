@@ -1,0 +1,14 @@
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/bin/Debug/net7.0/CS005_for_while
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/bin/Debug/net7.0/CS005_for_while.deps.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/bin/Debug/net7.0/CS005_for_while.runtimeconfig.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/bin/Debug/net7.0/CS005_for_while.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/bin/Debug/net7.0/CS005_for_while.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/CS005_for_while.GeneratedMSBuildEditorConfig.editorconfig
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/CS005_for_while.AssemblyInfoInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/CS005_for_while.AssemblyInfo.cs
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/CS005_for_while.csproj.CoreCompileInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/CS005_for_while.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/refint/CS005_for_while.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/CS005_for_while.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/CS005_for_while.genruntimeconfig.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS005_for_while/obj/Debug/net7.0/ref/CS005_for_while.dll
