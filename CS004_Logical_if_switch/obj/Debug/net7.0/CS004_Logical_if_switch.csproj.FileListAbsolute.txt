@@ -1,0 +1,14 @@
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/bin/Debug/net7.0/CS004_Logical_if_switch
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/bin/Debug/net7.0/CS004_Logical_if_switch.deps.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/bin/Debug/net7.0/CS004_Logical_if_switch.runtimeconfig.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/bin/Debug/net7.0/CS004_Logical_if_switch.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/bin/Debug/net7.0/CS004_Logical_if_switch.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/CS004_Logical_if_switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/CS004_Logical_if_switch.AssemblyInfoInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/CS004_Logical_if_switch.AssemblyInfo.cs
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/CS004_Logical_if_switch.csproj.CoreCompileInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/CS004_Logical_if_switch.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/refint/CS004_Logical_if_switch.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/CS004_Logical_if_switch.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/CS004_Logical_if_switch.genruntimeconfig.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS004_Logical_if_switch/obj/Debug/net7.0/ref/CS004_Logical_if_switch.dll
