@@ -1,0 +1,14 @@
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/bin/Debug/net7.0/CS006_Array
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/bin/Debug/net7.0/CS006_Array.deps.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/bin/Debug/net7.0/CS006_Array.runtimeconfig.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/bin/Debug/net7.0/CS006_Array.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/bin/Debug/net7.0/CS006_Array.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/CS006_Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/CS006_Array.AssemblyInfoInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/CS006_Array.AssemblyInfo.cs
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/CS006_Array.csproj.CoreCompileInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/CS006_Array.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/refint/CS006_Array.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/CS006_Array.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/CS006_Array.genruntimeconfig.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS006_Array/obj/Debug/net7.0/ref/CS006_Array.dll
