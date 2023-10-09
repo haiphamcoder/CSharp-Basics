@@ -1,0 +1,14 @@
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/bin/Debug/net7.0/CS007_Method
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/bin/Debug/net7.0/CS007_Method.deps.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/bin/Debug/net7.0/CS007_Method.runtimeconfig.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/bin/Debug/net7.0/CS007_Method.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/bin/Debug/net7.0/CS007_Method.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/CS007_Method.GeneratedMSBuildEditorConfig.editorconfig
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/CS007_Method.AssemblyInfoInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/CS007_Method.AssemblyInfo.cs
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/CS007_Method.csproj.CoreCompileInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/CS007_Method.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/refint/CS007_Method.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/CS007_Method.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/CS007_Method.genruntimeconfig.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS007_Method/obj/Debug/net7.0/ref/CS007_Method.dll
