@@ -1,0 +1,14 @@
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/bin/Debug/net7.0/CS008_Practice1
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/bin/Debug/net7.0/CS008_Practice1.deps.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/bin/Debug/net7.0/CS008_Practice1.runtimeconfig.json
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/bin/Debug/net7.0/CS008_Practice1.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/bin/Debug/net7.0/CS008_Practice1.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/CS008_Practice1.GeneratedMSBuildEditorConfig.editorconfig
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/CS008_Practice1.AssemblyInfoInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/CS008_Practice1.AssemblyInfo.cs
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/CS008_Practice1.csproj.CoreCompileInputs.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/CS008_Practice1.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/refint/CS008_Practice1.dll
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/CS008_Practice1.pdb
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/CS008_Practice1.genruntimeconfig.cache
+/home/haiqqez/Workspace/Dotnet-Projects/CSharp-Basics/CS008_Practice1/obj/Debug/net7.0/ref/CS008_Practice1.dll
